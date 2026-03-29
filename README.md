@@ -3,7 +3,7 @@
 
 > *From writing my first line of code to leading teams shipping production SaaS — I'm just getting started.*
 
-🌍 Gujarat, India &nbsp;|&nbsp; 📬 joshishiv4@gmail.com &nbsp;|&nbsp; 🌐 [shivjoshi.dev](https://shivjoshi.dev)
+🌍 Gujarat, India &nbsp;|&nbsp; 📬 joshishiv4@gmail.com
 
 ---
 
@@ -44,8 +44,6 @@
 
 ## 🏗️ Featured Projects
 
-> 🔗 Full case studies, live demos & breakdowns → **[shivjoshi.dev](https://shivjoshi.dev)**
-
 | Project | What it is | Stack |
 |---|---|---|
 | **AlianHub** | Enterprise SaaS — Project Management, CRM, HR, Finance, AI, real-time collab | Vue, Node, MongoDB, Socket, Chargebee |
@@ -67,7 +65,6 @@
 ## 🔭 Currently Learning / Building
 
 - 🤖 Going deeper into **AI integrations** — LLMs, RAG pipelines, and AI-powered product features
-- 🎨 Building my **portfolio site** with GSAP animations — coming soon at [shivjoshi.dev](https://shivjoshi.dev)
 - 🏛️ Leveling up **system design** skills for large-scale distributed systems
 
 ---
@@ -75,8 +72,6 @@
 ## 📡 Let's Connect
 
 If you're building something ambitious, looking for a tech lead, or just want to talk tech —
-
-**👉 [shivjoshi.dev](https://shivjoshi.dev)**
 
 ---
 
